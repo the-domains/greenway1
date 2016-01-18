@@ -1,7 +1,7 @@
 name: Greenway1
 favicon: null
-layout_spectrum: 0
-typography_spectrum: 0.8560843190643936
+layout_spectrum: 0.9833
+typography_spectrum: 0.57095
 collections:
   - index:
       path: /
