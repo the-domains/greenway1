@@ -1,5 +1,4 @@
-favicon: null
-name: Greenway1
+layout_spectrum: 0.9833
 opengraph:
   image: null
   type: null
@@ -10,31 +9,32 @@ collections:
       number: 15
       paginate: true
       navigable: true
+    permalink:
+      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
-    permalink:
-      path: '/:title/'
 purpose: []
 color:
   saturation: 0.5
-  brandStrength: 0.9375
-  rhythmicContrast: 0.5
+  lightness: 0.8125
+  brandStrength: 0.8705692
   brandColors:
     - '#052705'
     - '#EAE0D6'
     - '#5D4B38'
     - '#64B455'
     - '#D7D865'
-  lightness: 0.8125
+  rhythmicContrast: 0.5
 typography_spectrum: 0.556928
 cta:
   bucket: null
   version: null
   domain: null
-layout_spectrum: 0.9833
 analytics:
   twitter: null
   google: null
   facebook: null
+favicon: null
+name: Greenway1
