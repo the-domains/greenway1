@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Greenway1]]></title>
+        <description><![CDATA[Greenway1]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 18 Jan 2016 06:56:51 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[GreenWay Waste & Recycling,   a leading national service provider of door side waste and recycling collections.]]></title>
+            <description><![CDATA[<h1>GreenWay Waste & Recycling,   a leading national service provider of door side waste and recycling collections.</h1>]]></description>
+            <link>undefinedgreenway-waste-and-recycling-a-leading-national-service-pro/index.html</link>
+            <guid isPermaLink="false">ab820fe9-de8c-4572-bf44-bcebad5aaa69</guid>
+            <pubDate>Mon, 18 Jan 2016 06:56:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
