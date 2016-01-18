@@ -1,11 +1,7 @@
-analytics:
-  twitter: null
-  google: null
-  facebook: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+name: Greenway1
+favicon: null
+layout_spectrum: 0
+typography_spectrum: 0.8560843190643936
 collections:
   - index:
       path: /
@@ -18,23 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.4634801
-  brandStrength: 1
-  lightness: 0.5429646
   brandColors:
     - '#052705'
     - '#EAE0D6'
     - '#5D4B38'
     - '#64B455'
     - '#D7D865'
-  rhythmicContrast: 0.3925886
-typography_spectrum: 0.8560843190643936
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0
-favicon: null
-name: Greenway1
+  brandStrength: 0.9375
+  lightness: 0.8125
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
