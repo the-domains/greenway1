@@ -1,9 +1,7 @@
-favicon: null
 name: Greenway1
-opengraph:
-  image: null
-  type: null
-  appId: null
+favicon: null
+layout_spectrum: 0.7878625
+typography_spectrum: 0.556928
 collections:
   - index:
       path: /
@@ -16,25 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-purpose: []
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  saturation: 0.5
-  brandStrength: 1
-  rhythmicContrast: 0.5
   brandColors:
     - '#052705'
     - '#EAE0D6'
     - '#5D4B38'
     - '#64B455'
     - '#D7D865'
+  brandStrength: 0.5
   lightness: 0.8125
-typography_spectrum: 0.556928
-cta:
-  bucket: null
-  version: null
-  domain: null
-layout_spectrum: 0.7878625
-analytics:
-  twitter: null
-  google: null
-  facebook: null
+  saturation: 0.5
+  rhythmicContrast: 0.5
+purpose: []
